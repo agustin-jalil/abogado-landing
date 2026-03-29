@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     'honorarios',
   ],
   icons: {
-    icon: '/icon.svg',
-    apple: '/apple-icon.png',
+    icon: '',
+    apple: '',
   },
 }
 
